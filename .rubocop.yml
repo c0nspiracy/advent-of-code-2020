@@ -131,3 +131,5 @@ Style/StringLiterals:
   EnforcedStyle: double_quotes
 Naming/MethodParameterName:
   Enabled: false
+Metrics/MethodLength:
+  Max: 20
