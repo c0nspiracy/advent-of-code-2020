@@ -133,3 +133,5 @@ Naming/MethodParameterName:
   Enabled: false
 Metrics/MethodLength:
   Max: 20
+Naming/VariableNumber:
+  EnforcedStyle: snake_case
